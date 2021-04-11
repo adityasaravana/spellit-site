@@ -8,6 +8,6 @@ include_in_header: true
 April 9 2021
 
 # Privacy Policy 
-We do not collect any data from you or your devices running ReadMe!.
+We do not collect any data from you or your devices running Spell It!.
 
 
