@@ -28,19 +28,19 @@ youtube_username                          : BananaPie
 
 
 # Feature List                            Edit, add or remove features to be presented.
-features                                  :
+#features                                  :
 
-  - title                                 : New Look!
-    description                           : Brand-new makeover!
-    fontawesome_icon_name                 : magic
+#  - title                                 : New Look!
+#    description                           : Brand-new makeover!
+#    fontawesome_icon_name                 : magic
     
-  - title                                 : iMessage Stickers
-    description                           : Send Bullseye iMessage Stickers!
-    fontawesome_icon_name                 : mobile
+#  - title                                 : iMessage Stickers
+#    description                           : Send Bullseye iMessage Stickers!
+#    fontawesome_icon_name                 : mobile
 
-  - title                                 : Dark Mode
-    description                           : New support for Dark Mode!
-    fontawesome_icon_name                 : adjust
+#  - title                                 : Dark Mode
+#    description                           : New support for Dark Mode!
+#    fontawesome_icon_name                 : adjust
 
  
 
