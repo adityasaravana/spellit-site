@@ -11,7 +11,7 @@ appstore_link                             :                                     
 app_icon                                  :                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Welcome back to Bullseye! Fans of It's A Bullseye will love this completely redesigned and beautiful game! A brand-new modern look, a new leaderboard page, a completely new Hit Me! alert, and Dark Mode support? Who could ask for more?
+app_description                           : Welcome to ReadMe! the first app of the Pro 9 line and the best app for your books. Edit, organize, delete, and specify your personal library, right on your iPhone!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
