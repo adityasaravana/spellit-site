@@ -11,7 +11,7 @@ appstore_link                             :                                     
 app_icon                                  :                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Enter Spell It!, your guide to everything vocabulary-related. Practice one hundred words with speaking guides and quiz mode. Share beautiful awards with friends, to show off your nerdiness. Get the Word Of The Day, and take a quiz to hone that brain.
+app_description                           : Enter Spell It!, your guide to everything vocabulary-related. Practice one hundred words with speaking guides and quiz mode. Add your own, and destroy the competition at the school spelling bee. Get the Word Of The Day, and take a quiz to hone that brain.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,12 +34,12 @@ youtube_username                          : BananaPie
 #    description                           : Brand-new makeover!
 #    fontawesome_icon_name                 : magic
     
-#  - title                                 : iMessage Stickers
-#    description                           : Send Bullseye iMessage Stickers!
+#  - title                                 : Custom Words
+#    description                           : Add or delete your own custom words
 #    fontawesome_icon_name                 : mobile
 
-#  - title                                 : Dark Mode
-#    description                           : New support for Dark Mode!
+#  - title                                 : And Smaller Than Ever
+#    description                           : Takes up even less disk space!
 #    fontawesome_icon_name                 : adjust
 
  
